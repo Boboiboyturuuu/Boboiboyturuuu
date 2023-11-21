@@ -51,9 +51,6 @@
 <p align="center"><a href="https://github.com/Boboiboyturuuu"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boboiboyturuuu&theme=radical&layout=compact"></a></p>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
-<div>
-<n="center"><a href="https://github.com/Boboiboyturuuu"><img src="https://github-readme-stats.vercel.app/api?username=Boboiboyturuuu&show_icons=true&theme=radical"></a></p>
-</div
 
 ### 💻:keyboard: Languages and Tools 
 
